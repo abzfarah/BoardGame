@@ -1,11 +1,10 @@
 /***********************************************************************
 * COSC1076 - Advanced Programming Techniques
-* Semester 2 2015 Assignment #1 
-* Full Name        : EDIT HERE
-* Student Number   : EDIT HERE
-* Course Code      : EDIT HERE
-* Program Code     : EDIT HERE
-* Start up code provided by Paul Miller
+* Semester 2 2015 Assignment #1
+* Full Name        : Abdi Farah
+* Student Number   : 543707
+* Course Code      : MEC2004
+* Program Code     : MSc
 ***********************************************************************/
 #ifndef BOOL_H
 #define BOOL_H
